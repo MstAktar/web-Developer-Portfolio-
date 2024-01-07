@@ -176,6 +176,7 @@ footer{
 }
 .social-link{
     margin-right: 25px;
+    /* padding: 25px; */
 }
 .contact input[type="text"], .contact input[type="email"], 
 textarea{
