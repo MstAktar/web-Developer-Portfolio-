@@ -32,7 +32,7 @@ nav{
     align-items: center;
 }
 .nav-title{
-    color: var(--Dark-01, #181818);
+    color: #181818;
     font-size: 45px;
     font-weight: 800;
     margin-left: 226px;
@@ -40,6 +40,7 @@ nav{
 nav > ul{
     display: flex;
     align-items: center;
+    /* margin-left: 600px; */
 }
 nav li{
     list-style: none;
