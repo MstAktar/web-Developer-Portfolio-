@@ -33,8 +33,22 @@ nav > ul{
 nav li{
     list-style: none;
     margin-right: 50px;
+    margin: 0 200px;
 }
 nav a{
     text-decoration: none;
     color: #3b3b3b;
+}
+
+/* header related style */
+.header{
+    background-color:#FFF8F3;
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 500px;
 }
