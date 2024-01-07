@@ -162,3 +162,10 @@ main section{
     margin-top: 50px;
 }
 
+/* Footer Section */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
